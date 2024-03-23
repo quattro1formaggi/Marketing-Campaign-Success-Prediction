@@ -1,2 +1,1 @@
-# Marketing-Campaign-Success-Prediction
-Marketing Campaign Success Prediction
+# Marketing-Campaign-Success-Prediction: This research examines the application of statistical learning models to predict the success of marketing campaigns targeted at various customer segments. By analyzing a dataset with various customer attributes, the research aims to identify responsive customer segments and derive strategies to enhance the efficacy of future marketing campaigns. This research presents a comparative analysis of two models including a parametric model of Logistic Regression and a non-parametric model of Random Forest Classifier in order to forecast campaign outcomes and derive actionable insights.
